@@ -21,7 +21,7 @@ DEV_PACKAGES = [
     "filezilla", "ghex", "chromium", "keepassxc", "audacity", "gufw", "python-pywal",
     "bleachbit", "veracrypt", "homebank", "gtkhash", "gnome-firmware", "touche", "dconf-editor",
     "neovim", "obs-studio", "telegram-desktop", "tmux", "youtube-dl", "code", "cowsay",
-    "deluge-gtk", "flameshot", "sqlitebrowser", "obsidian", "python-pip", "bpython", "ipython", "cloc",
+    "deluge-gtk", "flameshot", "obsidian", "python-pip", "bpython", "ipython", "cloc",
 ]
 
 AUR_PACKAGES = [
