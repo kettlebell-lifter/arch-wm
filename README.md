@@ -46,7 +46,6 @@
 * Customizing software on the system.
 * Support for over 300 dynamic wallpapers.
 * Lots of handy scripts in bin/.
-* Convenient custom configuration of Firefox.
 * All hotkeys are honed for maximum productivity.
 * A very lightweight system that consumes less than 700mb of memory.
 * Automatic installation and configuration of all basic software for development.

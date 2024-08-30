@@ -28,14 +28,12 @@ super + {d,x}
     {rofi -show drun,sh $HOME/bin/powermenu}
 
 # Launch Applications
-super + shift + {f,n,p,t,c,v,i,x,q,k,l}
-	{firefox, \
-	thunar, \
+super + shift + {n,p,t,c,v,x,q,k,l}
+	{thunar, \
 	pavucontrol, \
 	telegram-desktop, \
 	code, \
 	virtualbox, \
-	firefox --private-window, \
 	sh $HOME/bin/xcolor-pick, \
 	sh $HOME/bin/bible, \
 	alacritty -e calcurse, \
